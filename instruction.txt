@@ -1,1 +1,7 @@
 npm i
+npm i gulp-cli (If not install before)
+gulp
+
+
+
+Good Luck
